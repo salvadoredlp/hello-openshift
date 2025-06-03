@@ -1,0 +1,2 @@
+# hello-openshift
+practica openshift
